@@ -1,6 +1,7 @@
 # CSL4020: Deep Learning | Course Project
 Music Style Transfer via MIDI files, output Beethoven
 ---
+
 The project uses [Maestro V3.0 dataset](https://magenta.tensorflow.org/datasets/maestro).  
 The files included with this project are:
 1. **demo.ipynb**  
@@ -19,15 +20,17 @@ The files included with this project are:
   The log of the best run.
 8. **data_preprocessing.ipynb**  
   Run this file only if you want to regenerate the data-loaders.  
-9. **report.pdf**
+9. **report.pdf**  
   The report of the Project detailing the architecture and results.
 
 
 If any issue arises over the pre-trained models, kindly rerun the training script.
 
+
 > ___Yash Shrivastava, B21CS079___  
   ___Muneshwar Mansi Kailash, B21CS047___  
   ___Chaitanya Gaur, B21ES007___
+
 
 ## References 
 1. [Symbolic Music Genre Transfer with CycleGAN](https://arxiv.org/abs/1809.07575)
